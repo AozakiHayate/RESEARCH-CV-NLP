@@ -1,5 +1,5 @@
 # RESEARCH-CV-NLP
-My Master research at University of Tsukuba
+My Master researchs at University of Tsukuba
 
   
   
