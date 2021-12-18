@@ -1,4 +1,5 @@
-
+本研究中、現時点用いるデータセットをアップロードしました、  
+データセットは以下のURLでlivedoorグルメ研究用データセットを使用します。  
 
 https://github.com/livedoor/datasets  
 
