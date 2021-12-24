@@ -2,7 +2,6 @@ def cut_sentences(content):
     # 结束符号，包含中文和英文的
     # 英語だけでなく、日本語・中国語追加
     end_flag = ['?', '!', '.', '？', '！', '。', '…']
-
     content_len = len(content)
     sentences = []
     tmp_char = ''
